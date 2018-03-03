@@ -1,4 +1,4 @@
-# Simple-Kotin-Dialog-Box
+# Simple-Kotlin-Dialog-Box
 A very simple example to show dialog box in android using Kotlin for beginners
 The dialog box has three button: Yes, No and a neutral Ok button
 
