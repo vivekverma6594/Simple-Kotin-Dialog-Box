@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.wolf.auth.kotindialogbox"
+        applicationId "com.wolf.auth.kotlindialogbox"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1

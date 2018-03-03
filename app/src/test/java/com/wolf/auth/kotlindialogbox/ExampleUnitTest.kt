@@ -1,4 +1,4 @@
-package com.wolf.auth.kotindialogbox
+package com.wolf.auth.kotlindialogbox
 
 import org.junit.Test
 

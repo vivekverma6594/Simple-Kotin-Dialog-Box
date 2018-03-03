@@ -1,4 +1,4 @@
-package com.wolf.auth.kotindialogbox
+package com.wolf.auth.kotlindialogbox
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
